@@ -130,8 +130,8 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week
-[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks | 4-6 hours/week
+**[Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)**| 7 weeks | 5-7 hours/week
+~~[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)~~ | 6 weeks | 4-6 hours/week
 
 ### Software Testing
 
